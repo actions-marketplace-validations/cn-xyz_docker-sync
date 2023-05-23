@@ -1,5 +1,5 @@
-name: 'Container Images Sync Tool'
-description: 'Container Images Sync Tool'
+name: 'Docker Images Sync Tool'
+description: 'Docker Images Sync Tool'
 author: 'admin <admin@china.cn>'
 inputs:
   REPO_URL:
